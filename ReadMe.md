@@ -11,4 +11,4 @@ Skills: C++ / Javascript / Python / SQL / HTML / CSS / Machine Learning
 - 🔗 [LinkedIn](https://www.linkedin.com/in/guna17215/)
 - 🐦 [Twitter](https://twitter.com/g17215/)
 - 📞 Phone: +91 9346777109
-- 📧 Email: guna955reddy@gamil.com
+- 📧 Email: guna955reddy@gmail.com
