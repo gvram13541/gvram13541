@@ -3,7 +3,7 @@
 
 I am currently pursuing my Bachelor's of Engineering in CSE(Cyber Security) at MSRIT, Bangalore and building up my programming skills and OpentoWork.
 
-Skills: C++ / Javascript / Python / SQL / HTML / CSS / Machine Learning
+Skills: C++ / Javascript / Python / SQL / HTML / CSS / Machine Learning / CyberSecurity
 
 - 🔭 I’m currently working on building up my programming and development skills for industry standard. 
 - 🌱 I’m currently learning & exploring trending AI&ML technologies. 
