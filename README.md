@@ -64,7 +64,13 @@
 
 <hr>
 
-### 📊 **Stats & Contributions**  
+### 📊 GitHub Stats & Contributions
+
+![Gunavardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvram13541&show_icons=true&theme=radical&hide_title=false)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gvram13541&theme=radical&hide_border=false)
+
+![GitHub Contributions Graph](https://ghchart.rshah.org/40916c/gvram13541)
 
 <hr>
 
