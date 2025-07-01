@@ -65,12 +65,19 @@
 <hr>
 
 ### 📊 GitHub Stats & Contributions
+<div align="center">
 
-![Gunavardhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvram13541&show_icons=true&theme=radical&hide_title=false)
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=gvram13541&show_icons=true&theme=radical&hide_title=false" alt="Gunavardhan's GitHub Stats" height="180px" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gvram13541&theme=radical&hide_border=false)
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gvram13541&theme=radical&hide_border=false" alt="Gunavardhan's GitHub Streak" height="180px" />
 
-![GitHub Contributions Graph](https://ghchart.rshah.org/40916c/gvram13541)
+<!-- Contribution Heatmap -->
+<img src="https://ghchart.rshah.org/40916c/gvram13541" alt="Gunavardhan's GitHub Contribution Graph" />
+
+</div>
+
 
 <hr>
 
