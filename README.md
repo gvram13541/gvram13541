@@ -47,7 +47,7 @@
   [Repo Link](https://github.com/gvram13541/LeafDiseasePrediction)
 
 - 🔥 **HP DeepSpeed Project**  
-  An innovative project leveraging **DeepSpeed** to optimize and scale large machine learning models for faster training and inference, built as part of my research in AI/ML.  
+  An innovative project leveraging **DeepSpeed** to optimize and scale large machine learning models for faster training and inference, built as part of my Internship as HPE.  
   [Repo Link](https://github.com/gvram13541/DemoDeepSpeed)
 
 - 🌐 **E-commerce Web App for Dairy Products**  
