@@ -52,7 +52,7 @@
 
 - 🌐 **E-commerce Web App for Dairy Products**  
   A full-stack e-commerce web application for buying and selling dairy products, featuring a user-friendly interface, payment gateway, and product management system using **Django**.  
-  [Repo Link](https://github.com/gvram13541/Django/tree/main/JJD)
+  [Repo Link](https://github.com/gvram13541/JJD)
 
 <hr>
 
