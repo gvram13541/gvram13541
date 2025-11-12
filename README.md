@@ -1,7 +1,7 @@
 ### I am Perugu Gunavardhan Reddy <hr>
 
 ### ABOUT ME
-Hi there! I’m a passionate **Software Developer** currently working as a **Software Developer** at **IBM India Software Development Labs**. With a strong commitment to building versatile programming skills, I’m on a journey to explore the ever-evolving tech landscape and master cutting-edge technologies.  
+Hi there! I’m a passionate **Software Developer** currently working as a **Software Developer** at **IBM India Systems Development Lab**. With a strong commitment to building versatile programming skills, I’m on a journey to explore the ever-evolving tech landscape and master cutting-edge technologies.  
 
 Currently, I’m diving deep into **Django development** and **cloud technologies**, integrating these powerful tools with my core passion for **cybersecurity** to design and implement **secure**, **scalable** solutions. My goal is to combine my technical expertise and enthusiasm to create impactful systems that address real-world challenges.  
 
